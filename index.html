@@ -140,7 +140,7 @@
         </div>
       </section>
 
-      <footer class="main-footer footer-type-1 position-relative text-xs">
+      <!-- <footer class="main-footer footer-type-1 position-relative text-xs">
         <div id="footer-tools" class="d-flex flex-column">
           <div id="footer-tools" class="d-flex flex-column">
             <a
@@ -176,7 +176,7 @@
             >
           </div>
         </div>
-      </footer>
+      </footer> -->
     </div>
     <script src="static/js/bing.js"></script>
     <script src="static/js/popper.min.js"></script>
@@ -217,6 +217,7 @@
             });
             if (configObj.name) {
               document.title = configObj.name;
+              $(".big-title").find("p").text(configObj.name);
             }
             let mediaList = Arr.filter((item) => {
               if (item.linkHref) {
