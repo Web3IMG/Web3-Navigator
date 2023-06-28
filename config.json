@@ -7,9 +7,10 @@
           "type": "text",
           "key": "name",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter your navigator page name"
         }
-      ]
+      ],
+      "tag": "Basic Info"
     },
     {
       "name": "link1",
@@ -24,7 +25,7 @@
           "type": "text",
           "key": "linkHref1",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -32,7 +33,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link2",
@@ -47,7 +49,7 @@
           "type": "text",
           "key": "linkHref2",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -55,7 +57,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link3",
@@ -70,7 +73,7 @@
           "type": "text",
           "key": "linkHref3",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -78,7 +81,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link4",
@@ -93,7 +97,7 @@
           "type": "text",
           "key": "linkHref4",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -101,7 +105,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link5",
@@ -116,7 +121,7 @@
           "type": "text",
           "key": "linkHref5",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -124,7 +129,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link6",
@@ -139,7 +145,7 @@
           "type": "text",
           "key": "linkHref6",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -147,7 +153,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link7",
@@ -162,7 +169,7 @@
           "type": "text",
           "key": "linkHref7",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -170,7 +177,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link8",
@@ -185,7 +193,7 @@
           "type": "text",
           "key": "linkHref8",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -193,7 +201,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link9",
@@ -208,7 +217,7 @@
           "type": "text",
           "key": "linkHref9",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -216,7 +225,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link10",
@@ -231,7 +241,7 @@
           "type": "text",
           "key": "linkHref10",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -239,7 +249,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link11",
@@ -254,7 +265,7 @@
           "type": "text",
           "key": "linkHref11",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -262,7 +273,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     },
     {
       "name": "link12",
@@ -277,7 +289,7 @@
           "type": "text",
           "key": "linkHref12",
           "value": "",
-          "placeholder": "Enter the name"
+          "placeholder": "Enter the website link"
         },
         {
           "type": "text",
@@ -285,7 +297,8 @@
           "value": "",
           "placeholder": "Enter the icon link"
         }
-      ]
+      ],
+      "tag": "Links"
     }
   ]
 }
